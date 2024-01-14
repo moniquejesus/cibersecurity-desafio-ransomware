@@ -1,3 +1,23 @@
+## Criar pasta do projeto
+
+mkdir projeto-ransomware
+
+## Entrar na pasta
+
+cd projeto-ransomware
+
+## Criar tres arquivos
+
+touch teste.txt
+
+touch encrypter.py
+
+touch decrypter.py
+
+## Criar os dados dentro de cada arquivo
+
+nano encrypter.py
+
 import os
 import pyaes
 
